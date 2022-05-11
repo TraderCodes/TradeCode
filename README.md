@@ -1,7 +1,7 @@
-Hi 👋 My name is Hi there, my name is Jamal ☀️
+H Hi there, my name is Jamal ☀️
 ==============================================
 
-I’m an Urban Designer turned Software Engineer. My background in engineering and design sparked my curiosity to take my problem-solving skills into the world of tech as a front-end engineer!
+I’m an Trader turned Software Engineer. My background in engineering and Trading sparked my curiosity to take my problem-solving skills into the world of tech as a front-end engineer!
 
 * 🌍  I'm based in California, USA
 * 🖥️  See my portfolio at [My personal site !](http://Tradercodes.com)
