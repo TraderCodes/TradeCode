@@ -29,6 +29,6 @@ Socials
 ### Badge
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Tradercodes"><img align ='left' width="47%" height='187px' src="https://github-readme-stats.vercel.app/api?username=Tradercodes&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tradercodes's GitHub stats" /></a>
+<a href="http://www.github.com/Tradercodes"><img align ='left' width="47%" height='100%' src="https://github-readme-stats.vercel.app/api?username=Tradercodes&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tradercodes's GitHub stats" /></a>
 
 <a href="http://www.github.com/Tradercodes"><img align ='left' width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tradercodes&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
