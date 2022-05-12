@@ -1,6 +1,6 @@
 <img width=100% height=5px src='https://user-images.githubusercontent.com/85665271/168048459-373a2c4a-95d8-4075-bf40-a6ac296d18af.gif'>
 <img align='right' height='1050px' width='5px' src='https://user-images.githubusercontent.com/85665271/168048459-373a2c4a-95d8-4075-bf40-a6ac296d18af.gif'>
-<img align='left' height='1050px' width='5px' src='https://user-images.githubusercontent.com/85665271/168048459-373a2c4a-95d8-4075-bf40-a6ac296d18af.gif'><img src="https://user-images.githubusercontent.com/85665271/168039975-8a587188-7159-4fa4-a423-8b02443f8d5b.gif" width='90%'/> <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="10px" width="90%">
+<img align='left' height='1050px' width='5px' src='https://user-images.githubusercontent.com/85665271/168048459-373a2c4a-95d8-4075-bf40-a6ac296d18af.gif'><img src="https://user-images.githubusercontent.com/85665271/168039975-8a587188-7159-4fa4-a423-8b02443f8d5b.gif" width='90%'/> <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="7px" width="90%">
 
 Hi , I’m a Trader turned Software Engineer. My background in Finance  and Trading sparked my curiosity to take my problem-solving skills into the world of tech as a front-end engineer!
 
@@ -25,10 +25,10 @@ Hi , I’m a Trader turned Software Engineer. My background in Finance  and Trad
 
 
 
-<img src='https://user-images.githubusercontent.com/85665271/168069632-b3634a4b-fa28-4ae4-a189-e13a2495d843.gif'><img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="10px" width="90%">
+<img src='https://user-images.githubusercontent.com/85665271/168069632-b3634a4b-fa28-4ae4-a189-e13a2495d843.gif'><img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="7px" width="90%">
 <p align="left"> <a href="https://www.github.com/Tradercodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>&nbsp&nbsp&nbsp <a href="https://tradercodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> &nbsp&nbsp&nbsp<a href="https://www.twitter.com/Tradercodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> &nbsp&nbsp&nbsp<a href="https://www.twitch.tv/nakazyy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-<img src='https://user-images.githubusercontent.com/85665271/168069466-826027fe-f7a5-41b7-82ef-697f9847ccaa.gif'><img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="10px" width="90%">
+<img src='https://user-images.githubusercontent.com/85665271/168069466-826027fe-f7a5-41b7-82ef-697f9847ccaa.gif'><img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="7px" width="90%">
 
 <b>My GitHub Stats</b>
 
