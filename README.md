@@ -3,11 +3,11 @@ Hi there, my name is Jamal ☀️
 
 I’m an Trader turned Software Engineer. My background in Finance  and Trading sparked my curiosity to take my problem-solving skills into the world of tech as a front-end engineer!
 
-* 🌍  I'm based in California, USA
-* 🖥️  Check my portfolio at [My personal site !](http://Tradercodes.com)
-* ✉️  You can contact me at [Waozin100@gmail.com](mailto:waozin100@gmail.com)
-* 🚀  I'm currently working on [React](http://react)
-* 🧠  I'm learning I'm in the process of expanding my skills in React and TypeScript but open to learning any tools!
+<img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="15px" width="15px"> 🌍  I'm based in California, USA <br>
+<img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="15px" width="15px"> 🖥️  Check my portfolio at [My personal site !](http://Tradercodes.com)<br> 
+ <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="15px" width="15px"> ✉️  You can contact me at [Waozin100@gmail.com](mailto:waozin100@gmail.com)<br> 
+ <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="15px" width="15px"> 🚀  I'm currently working on [React](http://react)<br>
+ <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="15px" width="15px"> 🧠  I'm learning I'm in the process of expanding my skills in React and TypeScript but open to learning any tools!
 
 Skills
 ==============================================
