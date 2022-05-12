@@ -10,8 +10,8 @@ Hi , I’m a Trader turned Software Engineer. My background in Finance  and Trad
  <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="15px" width="15px"> 🚀  I'm currently working on [React](http://react)<br>
  <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="15px" width="15px"> 🧠  I'm in the process of expanding my skills in Python and Node.js but open to learning any tools!
 
-Skills <br> <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="10px" width="90%"> 
-=
+
+<img src='https://user-images.githubusercontent.com/85665271/168068814-4b2158ec-8dd9-4ad0-9eac-159327c68e3e.gif'><img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="7px" width="90%"> 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>&nbsp&nbsp&nbsp
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>&nbsp&nbsp&nbsp
@@ -23,12 +23,13 @@ Skills <br> <img src="https://user-images.githubusercontent.com/85665271/1680267
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>&nbsp&nbsp&nbsp
 </p>
 
-Socials <br> <img  src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="10px" width="90%">
-==============================================
+
+
+<img src='https://user-images.githubusercontent.com/85665271/168069632-b3634a4b-fa28-4ae4-a189-e13a2495d843.gif'><img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="10px" width="90%">
 <p align="left"> <a href="https://www.github.com/Tradercodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>&nbsp&nbsp&nbsp <a href="https://tradercodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> &nbsp&nbsp&nbsp<a href="https://www.twitter.com/Tradercodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> &nbsp&nbsp&nbsp<a href="https://www.twitch.tv/nakazyy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-Badge <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="10px" width="90%">
-=
+<img src='https://user-images.githubusercontent.com/85665271/168069466-826027fe-f7a5-41b7-82ef-697f9847ccaa.gif'><img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="10px" width="90%">
+
 <b>My GitHub Stats</b>
 
 
