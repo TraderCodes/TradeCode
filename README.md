@@ -1,6 +1,6 @@
 <img width=100% height=5px src='https://user-images.githubusercontent.com/85665271/168048459-373a2c4a-95d8-4075-bf40-a6ac296d18af.gif'>
-<img align='right' height='1180px' width='5px' src='https://user-images.githubusercontent.com/85665271/168048459-373a2c4a-95d8-4075-bf40-a6ac296d18af.gif'>
-<img align='left' height='1180px' width='5px' src='https://user-images.githubusercontent.com/85665271/168048459-373a2c4a-95d8-4075-bf40-a6ac296d18af.gif'><img src="https://user-images.githubusercontent.com/85665271/168039975-8a587188-7159-4fa4-a423-8b02443f8d5b.gif" width='90%'/><br> <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="10px" width="90%">
+<img align='right' height='1100px' width='5px' src='https://user-images.githubusercontent.com/85665271/168048459-373a2c4a-95d8-4075-bf40-a6ac296d18af.gif'>
+<img align='left' height='1100px' width='5px' src='https://user-images.githubusercontent.com/85665271/168048459-373a2c4a-95d8-4075-bf40-a6ac296d18af.gif'><img src="https://user-images.githubusercontent.com/85665271/168039975-8a587188-7159-4fa4-a423-8b02443f8d5b.gif" width='90%'/><br> <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="10px" width="90%">
 
 Hi , I’m a Trader turned Software Engineer. My background in Finance  and Trading sparked my curiosity to take my problem-solving skills into the world of tech as a front-end engineer!
 
