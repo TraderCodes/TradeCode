@@ -1,7 +1,9 @@
-Hi there, my name is Jamal ☀️<br> <img align="right" src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="10px" width="100%">
+   <img align='center' src="https://user-images.githubusercontent.com/85665271/168039975-8a587188-7159-4fa4-a423-8b02443f8d5b.gif" width='100%'/><br> <img align="right" src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="10px" width="100%">
 ============================================== 
-
 I’m an Trader turned Software Engineer. My background in Finance  and Trading sparked my curiosity to take my problem-solving skills into the world of tech as a front-end engineer!
+
+
+
 
 <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="15px" width="15px"> 🌍  I'm based in California, USA <br>
 <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="15px" width="15px"> 🖥️  Check my portfolio at [My personal site !](http://Tradercodes.com)<br> 
