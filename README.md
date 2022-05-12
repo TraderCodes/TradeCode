@@ -10,7 +10,7 @@ Hi , I’m a Trader turned Software Engineer. My background in Finance  and Trad
  <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="15px" width="15px"> 🚀  I'm currently working on [React](http://react)<br>
  <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="15px" width="15px"> 🧠  I'm in the process of expanding my skills in Python and Node.js but open to learning any tools!
 
-Skills <br> <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="10px" width="95%"> 
+Skills <br> <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="10px" width="90%"> 
 =
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>&nbsp&nbsp&nbsp
