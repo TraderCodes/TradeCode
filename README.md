@@ -1,11 +1,11 @@
 Hi there, my name is Jamal ☀️
 ==============================================
 
-I’m an Trader turned Software Engineer. My background in engineering and Trading sparked my curiosity to take my problem-solving skills into the world of tech as a front-end engineer!
+I’m an Trader turned Software Engineer. My background in Finance  and Trading sparked my curiosity to take my problem-solving skills into the world of tech as a front-end engineer!
 
 * 🌍  I'm based in California, USA
-* 🖥️  See my portfolio at [My personal site !](http://Tradercodes.com)
-* ✉️  You can contact me at [waozin100@gmail.com](mailto:waozin100@gmail.com)
+* 🖥️  Check my portfolio at [My personal site !](http://Tradercodes.com)
+* ✉️  You can contact me at [Waozin100@gmail.com](mailto:waozin100@gmail.com)
 * 🚀  I'm currently working on [React](http://react)
 * 🧠  I'm learning I'm in the process of expanding my skills in React and TypeScript but open to learning any tools!
 
