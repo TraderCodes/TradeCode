@@ -7,7 +7,7 @@ I’m an Trader turned Software Engineer. My background in Finance  and Trading 
 <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="15px" width="15px"> 🖥️  Check my portfolio at [My personal site !](http://Tradercodes.com)<br> 
  <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="15px" width="15px"> ✉️  You can contact me at [Waozin100@gmail.com](mailto:waozin100@gmail.com)<br> 
  <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="15px" width="15px"> 🚀  I'm currently working on [React](http://react)<br>
- <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="15px" width="15px"> 🧠  I'm learning I'm in the process of expanding my skills in Python and Node.js but open to learning any tools!
+ <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="15px" width="15px"> 🧠  I'm in the process of expanding my skills in Python and Node.js but open to learning any tools!
 
 Skills <br> <img align="right" src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="10px" width="100%"> 
 =
