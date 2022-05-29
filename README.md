@@ -1,12 +1,12 @@
 <img width=3000px height=5px src='https://user-images.githubusercontent.com/85665271/168048459-373a2c4a-95d8-4075-bf40-a6ac296d18af.gif'>
 <img src="https://user-images.githubusercontent.com/85665271/168039975-8a587188-7159-4fa4-a423-8b02443f8d5b.gif" width=2000px/> <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="7px" width="3000px">
 
-Hi , I’m a <b>Trader</b> turned <b>Software Engineer</b>. My background in Finance and Trading sparked my curiosity to take my problem-solving skills into the world of tech as a <b>Front-end engineer</b>!
+Hi , I’m a <b>Trader</b> turned <b>Software Engineer / FrontEnd-Dev</b>. My background in Finance and Trading sparked my curiosity to take my problem-solving skills into the world of tech as a <b>Front-end engineer</b>!
 
 <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="15px" width="15px"> 🌍  I'm based in <b>California, USA<b> <br>
 <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="15px" width="15px"> 🖥️  Check my portfolio at [My personal site !](http://Tradercodes.com)<br> 
  <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="15px" width="15px"> ✉️  You can contact me at [Waozin100@gmail.com](mailto:waozin100@gmail.com)<br> 
- <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="15px" width="15px"> 🚀  I'm currently working on [React](http://react)<br>
+ <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="15px" width="15px"> 🚀  I'm currently working on [Node.js](http://node.js)<br>
  <img src="https://user-images.githubusercontent.com/85665271/168026767-2e6c6735-1cf3-4864-80cf-8cf2d1eeea07.gif" height="15px" width="15px"> 🧠  I'm in the process of expanding my skills in Python and Node.js but open to learning any tools!
 
 
